@@ -3,9 +3,9 @@ ToDo Java App is a simple task management application developed in the Java prog
 
 Key Features:
 
-Quickly add new tasks
-Easily edit and delete existing tasks
-Intuitive graphical user interface developed using the Swing library
-Support for various actions on tasks, such as marking them as completed or incomplete
-Customization of font and colors for a pleasant visual experience
+* Quickly add new tasks
+* Easily edit and delete existing tasks
+* Intuitive graphical user interface developed using the Swing library
+* Support for various actions on tasks, such as marking them as completed or incomplete
+
 
